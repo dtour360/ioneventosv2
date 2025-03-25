@@ -1,23 +1,14 @@
 {
- "name": "ION ESCRITÓRIOS INTELIGENTES v2",
- "display": "fullscreen",
  "start_url": "index.htm",
+ "name": "ION ESCRITÓRIOS INTELIGENTES v2",
+ "background_color": "#314464",
  "theme_color": "#314464",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "180x180",
-   "src": "misc/icon180.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
   },
   {
    "type": "image/png",
@@ -26,19 +17,28 @@
   },
   {
    "type": "image/png",
-   "sizes": "32x32",
-   "src": "misc/icon32.png"
+   "sizes": "180x180",
+   "src": "misc/icon180.png"
   },
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
    "sizes": "64x64",
    "src": "misc/icon64.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "32x32",
+   "src": "misc/icon32.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   }
- ],
- "background_color": "#314464"
+ ]
 }
