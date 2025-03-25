@@ -4,6 +4,7 @@
  "background_color": "#314464",
  "theme_color": "#314464",
  "display": "fullscreen",
+ "description": "Faça um tour virtual pelo nosso espaço!",
  "icons": [
   {
    "type": "image/png",
