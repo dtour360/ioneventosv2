@@ -1,9 +1,7 @@
 {
- "start_url": "index.htm",
+ "theme_color": "#314464",
  "name": "ION ESCRITÓRIOS INTELIGENTES v2",
  "description": "Faça um tour virtual pelo nosso espaço!",
- "display": "fullscreen",
- "theme_color": "#314464",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#314464"
+ "start_url": "index.htm",
+ "background_color": "#314464",
+ "display": "fullscreen"
 }
